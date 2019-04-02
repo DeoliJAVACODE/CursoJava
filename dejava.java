@@ -9,7 +9,7 @@ public class Main{
           int age = 30;
           int code = 590;
           char gender = 'F';
-AndersonJAVACODE
+
           double price1 = 2100.0;
           double price2 = 650.50;
           double measure = 53.234567;
